@@ -1,0 +1,9 @@
+/home/reaper/Documents/Yolov3/darknet/dataset/1.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/17.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/7.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/14.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/69.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/75.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/74.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/68.jpg
+/home/reaper/Documents/Yolov3/darknet/dataset/18.jpg
